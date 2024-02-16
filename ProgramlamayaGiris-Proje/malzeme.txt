@@ -1,0 +1,19 @@
+Et 0.25 Tuz 0.002 Baharat 0.001 Yag 0.02 
+Pirinc 0.3 Tuz 0.002 Yag 0.03 
+Tavuk 0.4 Tuz 0.002 Yag 0.02 Baharat 0.002 
+Patates 0.2 Tuz 0.002 Yag 0.02 
+Et 0.4 Tuz 0.002 Yag 0.02 
+Mercimek 0.2 Tuz 0.002 Baharat 0.002 
+Yogurt 0.2 Pirinc 0.05 Tuz 0.002 
+Nohut 0.2 Tuz 0.002 Salca 0.005 Et 0.002 
+KuruFasulye 0.2 Tuz 0.002 Salca 0.005 Et 0.002 
+Biftek 0.25 Tuz 0.002 Yag 0.02 
+Balik 0.4 Tuz 0.002 
+Bulgur 0.3 Tuz 0.002 Yag 0.03 
+Et 0.2 Tuz 0.002 Baharat 0.002 Yag 0.05 
+Et 0.2 Tuz 0.002 Baharat 0.001 Yag 0.05 
+Sut 0.05 Pirinc 0.05 Seker 0.01 
+Sut 0.05 Krema 0.01 Seker 0.01 
+Sut 0.05 Un 0.01 Seker 0.01 
+Yumurta 1 Seker 0.01 Sut 0.025 Yag 0.01 
+Yogurt 0.05 Tuz 0.001 
